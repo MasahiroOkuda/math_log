@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "43089433178",
+    "firebase_url": "https://math-master-f7d5c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "math-master-f7d5c",
+    "storage_bucket": "math-master-f7d5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43089433178:android:1fb3d646dfd02fca5f7e63",
+        "android_client_info": {
+          "package_name": "com.example.math_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8wMxx1ylDl9a13gc6RJGeupuHd5UYsIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

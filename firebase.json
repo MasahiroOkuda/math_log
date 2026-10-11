@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "math-master-f7d5c",
+          "appId": "1:43089433178:android:1fb3d646dfd02fca5f7e63",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "math-master-f7d5c",
+          "configurations": {
+            "android": "1:43089433178:android:1fb3d646dfd02fca5f7e63",
+            "ios": "1:43089433178:ios:b8b06e52b1434a235f7e63",
+            "macos": "1:43089433178:ios:b8b06e52b1434a235f7e63",
+            "web": "1:43089433178:web:89eaa3bc68fd85b45f7e63",
+            "windows": "1:43089433178:web:32c88df08a4d58b45f7e63"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
